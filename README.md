@@ -1,0 +1,1 @@
+# telligent-get-idea-data
